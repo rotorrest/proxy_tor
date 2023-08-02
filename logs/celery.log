@@ -1,0 +1,1802 @@
+[2023-06-28 15:22:45,532: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-28 15:22:45,537: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-28 15:22:46,546: INFO/MainProcess] mingle: all alone
+[2023-06-28 15:22:46,557: INFO/MainProcess] celery@36ce73411468 ready.
+[2023-06-28 15:22:55,542: INFO/MainProcess] Task create_task[d6df95e9-dbe6-48f4-9d40-167f4ca84d5b] received
+[2023-06-28 15:22:55,546: WARNING/ForkPoolWorker-3] start task
+[2023-06-28 15:23:05,550: WARNING/ForkPoolWorker-3] end task
+[2023-06-28 15:23:05,561: INFO/ForkPoolWorker-3] Task create_task[d6df95e9-dbe6-48f4-9d40-167f4ca84d5b] succeeded in 10.015744405998703s: True
+[2023-06-28 15:29:35,138: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-28 15:29:35,142: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-28 15:29:36,152: INFO/MainProcess] mingle: all alone
+[2023-06-28 15:29:36,164: INFO/MainProcess] celery@36ce73411468 ready.
+[2023-06-28 15:29:39,344: INFO/MainProcess] Task create_task[ca4e3897-7e4e-4f2d-9155-29f45d0322fb] received
+[2023-06-28 15:29:39,353: WARNING/ForkPoolWorker-3] start task
+[2023-06-28 15:29:41,197: INFO/MainProcess] Task create_task[3678bfaa-4fed-4888-aa81-d4533d0814c0] received
+[2023-06-28 15:29:41,202: WARNING/ForkPoolWorker-5] start task
+[2023-06-28 15:29:41,357: INFO/MainProcess] Task create_task[c100eef4-fde9-4643-b679-8c4817900ef9] received
+[2023-06-28 15:29:41,361: WARNING/ForkPoolWorker-4] start task
+[2023-06-28 15:29:49,356: WARNING/ForkPoolWorker-3] end task
+[2023-06-28 15:29:49,375: INFO/ForkPoolWorker-3] Task create_task[ca4e3897-7e4e-4f2d-9155-29f45d0322fb] succeeded in 10.022164494999743s: True
+[2023-06-28 15:29:51,207: WARNING/ForkPoolWorker-5] end task
+[2023-06-28 15:29:51,220: INFO/ForkPoolWorker-5] Task create_task[3678bfaa-4fed-4888-aa81-d4533d0814c0] succeeded in 10.017923617000633s: True
+[2023-06-28 15:29:51,367: WARNING/ForkPoolWorker-4] end task
+[2023-06-28 15:29:51,379: INFO/ForkPoolWorker-4] Task create_task[c100eef4-fde9-4643-b679-8c4817900ef9] succeeded in 10.01789779399769s: True
+[2023-06-28 15:50:28,971: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-28 15:50:28,986: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-28 15:50:30,013: INFO/MainProcess] mingle: all alone
+[2023-06-28 15:50:30,050: INFO/MainProcess] celery@7fe75ef3ff7a ready.
+[2023-06-28 15:50:33,725: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-28 15:52:44,312: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-06-28 15:52:44,328: INFO/MainProcess] mingle: searching for neighbors
+[2023-06-28 15:52:45,361: INFO/MainProcess] mingle: all alone
+[2023-06-28 15:52:45,390: INFO/MainProcess] celery@991efaf6f33d ready.
+[2023-06-28 15:52:49,434: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-06-28 15:53:10,640: INFO/MainProcess] Task create_task[c8bc9951-08f9-4b37-bfc5-ef7f43905ae2] received
+[2023-06-28 15:53:10,645: WARNING/ForkPoolWorker-3] start task
+[2023-06-28 15:53:20,648: WARNING/ForkPoolWorker-3] end task
+[2023-06-28 15:53:20,655: INFO/ForkPoolWorker-3] Task create_task[c8bc9951-08f9-4b37-bfc5-ef7f43905ae2] succeeded in 10.010224276000372s: True
+[2023-06-28 15:54:10,669: INFO/MainProcess] Task create_task[efd7d39d-bd2f-4dbd-b781-d2cb4edf251b] received
+[2023-06-28 15:54:10,676: WARNING/ForkPoolWorker-3] start task
+[2023-06-28 15:54:11,900: INFO/MainProcess] Task create_task[7324e201-4dd4-4a96-811b-ca9f305bf30f] received
+[2023-06-28 15:54:11,905: WARNING/ForkPoolWorker-5] start task
+[2023-06-28 15:54:12,927: INFO/MainProcess] Task create_task[aa75ba1b-7010-47d8-859c-d846532fdecb] received
+[2023-06-28 15:54:12,931: WARNING/ForkPoolWorker-4] start task
+[2023-06-28 15:54:13,714: INFO/MainProcess] Task create_task[6b4189a2-be37-44a7-9a18-b8e26dc803cc] received
+[2023-06-28 15:54:13,718: WARNING/ForkPoolWorker-6] start task
+[2023-06-28 15:54:20,680: WARNING/ForkPoolWorker-3] end task
+[2023-06-28 15:54:20,685: INFO/ForkPoolWorker-3] Task create_task[efd7d39d-bd2f-4dbd-b781-d2cb4edf251b] succeeded in 10.009448051001527s: True
+[2023-06-28 15:54:21,913: WARNING/ForkPoolWorker-5] end task
+[2023-06-28 15:54:21,929: INFO/ForkPoolWorker-5] Task create_task[7324e201-4dd4-4a96-811b-ca9f305bf30f] succeeded in 10.024176589999115s: True
+[2023-06-28 15:54:22,935: WARNING/ForkPoolWorker-4] end task
+[2023-06-28 15:54:22,949: INFO/ForkPoolWorker-4] Task create_task[aa75ba1b-7010-47d8-859c-d846532fdecb] succeeded in 10.017605853998248s: True
+[2023-06-28 15:54:23,723: WARNING/ForkPoolWorker-6] end task
+[2023-06-28 15:54:23,743: INFO/ForkPoolWorker-6] Task create_task[6b4189a2-be37-44a7-9a18-b8e26dc803cc] succeeded in 10.025457095998718s: True
+[2023-06-28 15:54:32,938: INFO/MainProcess] Task create_task[889b2005-86ea-4774-a4fe-1334b02173e3] received
+[2023-06-28 15:54:32,943: WARNING/ForkPoolWorker-3] start task
+[2023-06-28 15:54:33,737: INFO/MainProcess] Task create_task[b0790ab2-6a76-47ad-8964-3f8cc2cd5045] received
+[2023-06-28 15:54:33,743: WARNING/ForkPoolWorker-5] start task
+[2023-06-28 15:54:42,946: WARNING/ForkPoolWorker-3] end task
+[2023-06-28 15:54:42,956: INFO/ForkPoolWorker-3] Task create_task[889b2005-86ea-4774-a4fe-1334b02173e3] succeeded in 10.013329598001292s: True
+[2023-06-28 15:54:43,746: WARNING/ForkPoolWorker-5] end task
+[2023-06-28 15:54:43,751: INFO/ForkPoolWorker-5] Task create_task[b0790ab2-6a76-47ad-8964-3f8cc2cd5045] succeeded in 10.008540713999537s: True
+[2023-07-19 13:18:44,305: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:18:44,315: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:18:45,329: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:18:45,344: INFO/MainProcess] celery@d6969d9c1d83 ready.
+[2023-07-19 13:18:48,599: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:23:22,675: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:23:22,685: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:23:23,704: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:23:23,724: INFO/MainProcess] celery@b2f1f48bf286 ready.
+[2023-07-19 13:23:27,260: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:24:43,407: INFO/MainProcess] Task create_task[d031bf53-b39a-4af3-8e4e-f06c91eacd24] received
+[2023-07-19 13:24:43,433: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:24:43,438: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:24:43,443: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,447: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,450: WARNING/ForkPoolWorker-3]   File "/usr/src/app/worker.py", line 19, in create_task
+    response = requests.get(url, proxies=proxies)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,455: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,459: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,462: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,467: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,470: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 456, in send
+    conn = self.get_connection(request.url, proxies)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,473: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 352, in get_connection
+    proxy_manager = self.proxy_manager_for(proxy)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,474: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 217, in proxy_manager_for
+    manager = self.proxy_manager[proxy] = SOCKSProxyManager(
+                                          ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,476: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 62, in SOCKSProxyManager
+    raise InvalidSchema("Missing dependencies for SOCKS support.")
+[2023-07-19 13:24:43,478: WARNING/ForkPoolWorker-3] requests.exceptions.InvalidSchema: Missing dependencies for SOCKS support.
+[2023-07-19 13:24:43,480: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:24:43,482: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:24:43,484: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,486: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,488: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,490: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,492: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,494: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:24:43,497: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,499: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,500: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:24:43,502: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,505: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:24:43,507: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:24:43,510: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:24:43,515: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:24:43,516: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:24:43,519: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:24:43,520: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:24:43,521: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:24:43,523: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:24:43,524: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:24:43,526: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:24:43,528: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 26, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:24:43,531: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:24:43,534: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:24:43,535: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:24:43,537: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:24:43,539: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:24:43,541: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:24:43,542: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:24:43,544: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:24:43,546: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:24:43,549: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:24:43,552: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:24:43,555: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:24:43,557: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:24:43,558: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:24:43,560: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:24:43,563: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:24:43,567: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:24:43,569: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:24:43,572: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:24:43,574: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:24:43,576: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:24:43,578: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:24:43,579: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:24:43,581: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:24:43,582: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:24:43,583: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b2f1f48bf286', 'id': 'd031bf53-b39a-4af3-8e4e-f06c91eacd24', 'name': 'create_task', 'exc': "InvalidSchema('Missing dependencies for SOCKS support.')", 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 19, in create_task\n    response = requests.get(url, proxies=proxies)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get\n    return request("get", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 456, in send\n    conn = self.get_connection(request.url, proxies)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 352, in get_connection\n    proxy_manager = self.proxy_manager_for(proxy)\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 217, in proxy_manager_for\n    manager = self.proxy_manager[proxy] = SOCKSProxyManager(\n                                          ^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 62, in SOCKSProxyManager\n    raise InvalidSchema("Missing dependencies for SOCKS support.")\nrequests.exceptions.InvalidSchema: Missing dependencies for SOCKS support.\n', 'args': "['https://ipinfo.tw/ip']", 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 13:25:41,499: INFO/MainProcess] Task create_task[d553faa0-dc77-4722-8b6b-eb9dab67465f] received
+[2023-07-19 13:25:41,517: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:25:41,519: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:25:41,525: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,528: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,531: WARNING/ForkPoolWorker-3]   File "/usr/src/app/worker.py", line 19, in create_task
+    response = requests.get(url, proxies=proxies)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,535: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,539: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,542: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,544: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,546: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 456, in send
+    conn = self.get_connection(request.url, proxies)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,549: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 352, in get_connection
+    proxy_manager = self.proxy_manager_for(proxy)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,551: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 217, in proxy_manager_for
+    manager = self.proxy_manager[proxy] = SOCKSProxyManager(
+                                          ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,554: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 62, in SOCKSProxyManager
+    raise InvalidSchema("Missing dependencies for SOCKS support.")
+[2023-07-19 13:25:41,556: WARNING/ForkPoolWorker-3] requests.exceptions.InvalidSchema: Missing dependencies for SOCKS support.
+[2023-07-19 13:25:41,558: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:25:41,559: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:25:41,563: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,568: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,570: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,574: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,578: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,581: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:25:41,583: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,586: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,590: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:25:41,591: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,593: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:25:41,597: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:25:41,600: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:25:41,602: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:25:41,603: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:25:41,605: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:25:41,606: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:25:41,607: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:25:41,609: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:25:41,610: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:25:41,612: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:25:41,613: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 26, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:25:41,615: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:25:41,617: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:25:41,619: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:25:41,621: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:25:41,623: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:25:41,624: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:25:41,625: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:25:41,627: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:25:41,628: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:25:41,630: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:25:41,632: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:25:41,633: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:25:41,635: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:25:41,636: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:25:41,637: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:25:41,638: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:25:41,640: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:25:41,641: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:25:41,642: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:25:41,644: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:25:41,646: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:25:41,648: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:25:41,652: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:25:41,655: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:25:41,658: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:25:41,661: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b2f1f48bf286', 'id': 'd553faa0-dc77-4722-8b6b-eb9dab67465f', 'name': 'create_task', 'exc': "InvalidSchema('Missing dependencies for SOCKS support.')", 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 19, in create_task\n    response = requests.get(url, proxies=proxies)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get\n    return request("get", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 456, in send\n    conn = self.get_connection(request.url, proxies)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 352, in get_connection\n    proxy_manager = self.proxy_manager_for(proxy)\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 217, in proxy_manager_for\n    manager = self.proxy_manager[proxy] = SOCKSProxyManager(\n                                          ^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 62, in SOCKSProxyManager\n    raise InvalidSchema("Missing dependencies for SOCKS support.")\nrequests.exceptions.InvalidSchema: Missing dependencies for SOCKS support.\n', 'args': "['https://ipinfo.tw/ip']", 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 13:27:36,760: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:27:36,777: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:27:37,799: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:27:37,830: INFO/MainProcess] celery@efd543d32b31 ready.
+[2023-07-19 13:27:41,496: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:28:03,869: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:28:03,881: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:28:04,898: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:28:05,039: INFO/MainProcess] celery@bb7111bbb28e ready.
+[2023-07-19 13:28:08,739: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:31:49,023: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:31:49,038: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:31:50,067: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:31:50,109: INFO/MainProcess] celery@660a4be21feb ready.
+[2023-07-19 13:31:53,782: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:33:40,055: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:33:40,076: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:33:41,098: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:33:41,114: INFO/MainProcess] celery@6f4fd93aea7a ready.
+[2023-07-19 13:33:44,690: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:39:16,531: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:39:16,540: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:39:17,554: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:39:17,572: INFO/MainProcess] celery@3c75f9b6e2c1 ready.
+[2023-07-19 13:39:21,373: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:42:48,299: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:42:48,316: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:42:49,350: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:42:49,384: INFO/MainProcess] celery@78018f669a23 ready.
+[2023-07-19 13:42:52,939: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:45:06,761: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:45:06,780: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:45:07,804: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:45:07,847: INFO/MainProcess] celery@b000429888fc ready.
+[2023-07-19 13:45:11,650: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:45:50,800: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:45:50,807: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:45:51,823: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:45:51,844: INFO/MainProcess] celery@11a8edab0a41 ready.
+[2023-07-19 13:45:55,626: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:48:10,206: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:48:10,214: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:48:11,231: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:48:11,259: INFO/MainProcess] celery@16de020ae4ce ready.
+[2023-07-19 13:48:15,124: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:50:45,501: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 13:50:45,516: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 13:50:46,540: INFO/MainProcess] mingle: all alone
+[2023-07-19 13:50:46,563: INFO/MainProcess] celery@b4a0f955e8ed ready.
+[2023-07-19 13:50:50,447: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 13:53:35,017: INFO/MainProcess] Task create_task[9d1616d6-1983-47ba-b179-937396d6e3a5] received
+[2023-07-19 13:53:35,040: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:53:35,046: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:53:35,051: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,054: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,058: WARNING/ForkPoolWorker-3] TypeError: create_task() missing 1 required positional argument: 'url'
+[2023-07-19 13:53:35,060: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:53:35,062: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:53:35,065: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,068: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,070: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,073: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,076: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,078: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:53:35,084: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,088: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,093: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:53:35,095: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,098: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:35,100: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:53:35,104: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:53:35,110: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:53:35,112: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:53:35,114: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:53:35,116: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:53:35,118: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:53:35,121: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:53:35,123: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:53:35,126: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:53:35,130: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:53:35,132: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:53:35,134: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:53:35,137: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:53:35,140: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:53:35,142: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:53:35,144: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:53:35,146: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:53:35,148: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:53:35,149: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:53:35,151: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:53:35,156: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:53:35,158: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:53:35,159: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:53:35,161: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:53:35,163: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:53:35,164: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:53:35,166: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:53:35,169: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:53:35,175: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:53:35,179: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:53:35,183: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:53:35,186: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:53:35,188: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:53:35,191: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:53:35,193: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:53:35,197: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b4a0f955e8ed', 'id': '9d1616d6-1983-47ba-b179-937396d6e3a5', 'name': 'create_task', 'exc': 'TypeError("create_task() missing 1 required positional argument: \'url\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: create_task() missing 1 required positional argument: \'url\'\n', 'args': "['https://ipinfo.tw/ip']", 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 13:53:43,544: INFO/MainProcess] Task create_task[68a91d78-fd8f-425c-aca0-f923887ab860] received
+[2023-07-19 13:53:43,556: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:53:43,559: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:53:43,562: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,565: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,567: WARNING/ForkPoolWorker-3] TypeError: create_task() missing 1 required positional argument: 'url'
+[2023-07-19 13:53:43,571: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:53:43,575: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:53:43,581: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,587: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,590: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,596: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,602: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,607: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:53:43,612: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,616: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,620: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:53:43,625: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,631: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:43,635: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:53:43,640: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:53:43,647: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:53:43,651: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:53:43,656: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:53:43,660: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:53:43,665: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:53:43,670: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:53:43,674: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:53:43,679: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:53:43,683: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:53:43,685: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:53:43,689: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:53:43,692: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:53:43,696: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:53:43,699: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:53:43,702: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:53:43,705: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:53:43,712: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:53:43,715: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:53:43,718: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:53:43,721: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:53:43,723: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:53:43,725: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:53:43,726: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:53:43,728: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:53:43,730: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:53:43,732: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:53:43,733: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:53:43,735: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:53:43,736: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:53:43,738: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:53:43,739: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:53:43,741: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:53:43,742: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:53:43,743: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:53:43,745: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b4a0f955e8ed', 'id': '68a91d78-fd8f-425c-aca0-f923887ab860', 'name': 'create_task', 'exc': 'TypeError("create_task() missing 1 required positional argument: \'url\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: create_task() missing 1 required positional argument: \'url\'\n', 'args': "['https://ipinfo.tw/ip']", 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 13:53:44,129: INFO/MainProcess] Task create_task[6658321c-a19d-4aeb-b3f0-f3bc6fde9a21] received
+[2023-07-19 13:53:44,139: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:53:44,141: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:53:44,146: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,152: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,157: WARNING/ForkPoolWorker-3] TypeError: create_task() missing 1 required positional argument: 'url'
+[2023-07-19 13:53:44,164: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:53:44,169: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:53:44,172: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,174: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,175: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,178: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,180: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,183: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:53:44,185: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,188: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,194: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:53:44,198: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,201: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,205: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:53:44,208: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:53:44,210: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:53:44,213: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:53:44,216: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:53:44,220: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:53:44,223: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:53:44,224: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:53:44,226: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:53:44,228: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:53:44,231: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:53:44,232: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:53:44,234: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:53:44,236: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:53:44,237: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:53:44,240: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:53:44,243: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:53:44,245: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:53:44,247: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:53:44,249: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:53:44,251: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:53:44,252: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:53:44,254: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:53:44,255: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:53:44,256: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:53:44,259: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:53:44,264: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:53:44,268: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:53:44,272: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:53:44,275: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:53:44,278: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:53:44,280: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:53:44,284: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:53:44,287: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:53:44,289: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:53:44,290: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:53:44,292: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b4a0f955e8ed', 'id': '6658321c-a19d-4aeb-b3f0-f3bc6fde9a21', 'name': 'create_task', 'exc': 'TypeError("create_task() missing 1 required positional argument: \'url\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: create_task() missing 1 required positional argument: \'url\'\n', 'args': "['https://ipinfo.tw/ip']", 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 13:53:44,645: INFO/MainProcess] Task create_task[0d69f558-5c86-4ccc-8868-5150f9fb2500] received
+[2023-07-19 13:53:44,658: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:53:44,659: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:53:44,662: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,664: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,669: WARNING/ForkPoolWorker-3] TypeError: create_task() missing 1 required positional argument: 'url'
+[2023-07-19 13:53:44,672: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:53:44,676: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:53:44,681: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,684: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,687: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,689: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,691: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,693: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:53:44,696: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,698: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,700: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:53:44,701: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,703: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:53:44,704: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:53:44,706: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:53:44,708: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:53:44,711: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:53:44,713: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:53:44,715: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:53:44,717: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:53:44,719: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:53:44,720: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:53:44,722: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:53:44,724: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:53:44,727: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:53:44,730: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:53:44,733: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:53:44,735: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:53:44,737: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:53:44,739: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:53:44,740: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:53:44,741: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:53:44,743: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:53:44,745: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:53:44,746: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:53:44,748: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:53:44,749: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:53:44,750: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:53:44,752: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:53:44,754: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:53:44,755: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:53:44,756: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:53:44,757: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:53:44,759: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:53:44,760: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:53:44,762: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:53:44,763: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:53:44,764: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:53:44,766: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:53:44,768: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b4a0f955e8ed', 'id': '0d69f558-5c86-4ccc-8868-5150f9fb2500', 'name': 'create_task', 'exc': 'TypeError("create_task() missing 1 required positional argument: \'url\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: create_task() missing 1 required positional argument: \'url\'\n', 'args': "['https://ipinfo.tw/ip']", 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 13:54:27,806: INFO/MainProcess] Task create_task[b87d23bd-f307-405c-b2c3-9c24eabb9124] received
+[2023-07-19 13:54:27,816: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:54:27,819: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:54:27,822: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,825: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,828: WARNING/ForkPoolWorker-3] TypeError: create_task() missing 1 required positional argument: 'url'
+[2023-07-19 13:54:27,831: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:54:27,834: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:54:27,836: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,839: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,842: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,844: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,846: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,848: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:54:27,849: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,851: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,853: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:54:27,857: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,860: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:54:27,861: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:54:27,864: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:54:27,867: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:54:27,874: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:54:27,878: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:54:27,880: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:54:27,882: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:54:27,884: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:54:27,887: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:54:27,888: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:54:27,890: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:54:27,892: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:54:27,897: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:54:27,898: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:54:27,899: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:54:27,901: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:54:27,908: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:54:27,913: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:54:27,915: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:54:27,919: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:54:27,924: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:54:27,927: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:54:27,929: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:54:27,932: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:54:27,939: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:54:27,942: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:54:27,945: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:54:27,949: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:54:27,951: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:54:27,953: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:54:27,955: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:54:27,957: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:54:27,961: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:54:27,963: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:54:27,965: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:54:27,970: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:54:27,974: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b4a0f955e8ed', 'id': 'b87d23bd-f307-405c-b2c3-9c24eabb9124', 'name': 'create_task', 'exc': 'TypeError("create_task() missing 1 required positional argument: \'url\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: create_task() missing 1 required positional argument: \'url\'\n', 'args': "['https://ipinfo.tw/ip']", 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 13:57:09,245: INFO/MainProcess] Task create_task[e43fb3e9-2b30-403d-9c83-b4a4c3ca442f] received
+[2023-07-19 13:57:09,260: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:57:09,264: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:57:09,269: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,273: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,277: WARNING/ForkPoolWorker-3] TypeError: create_task() missing 1 required positional argument: 'url'
+[2023-07-19 13:57:09,282: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:57:09,287: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:57:09,291: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,294: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,299: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,306: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,310: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,312: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:57:09,316: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,318: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,321: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:57:09,323: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,325: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:57:09,327: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:57:09,330: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:57:09,333: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:57:09,336: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:57:09,338: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:57:09,340: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:57:09,343: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:57:09,345: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:57:09,348: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:57:09,352: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:57:09,356: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:57:09,359: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:57:09,363: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:57:09,368: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:57:09,370: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:57:09,373: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:57:09,374: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:57:09,376: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:57:09,377: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:57:09,380: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:57:09,381: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:57:09,383: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:57:09,384: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:57:09,386: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:57:09,387: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:57:09,389: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:57:09,390: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:57:09,391: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:57:09,393: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:57:09,394: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:57:09,396: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:57:09,398: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:57:09,399: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:57:09,401: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:57:09,402: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:57:09,404: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:57:09,406: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b4a0f955e8ed', 'id': 'e43fb3e9-2b30-403d-9c83-b4a4c3ca442f', 'name': 'create_task', 'exc': 'TypeError("create_task() missing 1 required positional argument: \'url\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: create_task() missing 1 required positional argument: \'url\'\n', 'args': "['https://ipinfo.tw/ip']", 'kwargs': '{}', 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 13:58:28,852: INFO/MainProcess] Task create_task[df3cb585-e2ff-4dda-b157-2b0f07d63b2e] received
+[2023-07-19 13:58:28,864: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 13:58:28,867: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:58:28,872: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,876: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,878: WARNING/ForkPoolWorker-3] TypeError: create_task() missing 1 required positional argument: 'task_type'
+[2023-07-19 13:58:28,881: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 13:58:28,885: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 13:58:28,889: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,892: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,894: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,896: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,899: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,902: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 13:58:28,905: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,907: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,911: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 13:58:28,915: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,916: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 13:58:28,919: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 13:58:28,921: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 13:58:28,923: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 13:58:28,926: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 13:58:28,930: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 13:58:28,932: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 13:58:28,934: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 13:58:28,937: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 13:58:28,940: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 13:58:28,946: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 13:58:28,950: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 13:58:28,955: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 13:58:28,959: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 13:58:28,962: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 13:58:28,966: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 13:58:28,969: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 13:58:28,972: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 13:58:28,976: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 13:58:28,980: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 13:58:28,984: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 13:58:28,987: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 13:58:28,990: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 13:58:28,992: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 13:58:28,994: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 13:58:28,996: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 13:58:28,998: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 13:58:29,000: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 13:58:29,001: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 13:58:29,002: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 13:58:29,004: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 13:58:29,005: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 13:58:29,007: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 13:58:29,008: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 13:58:29,009: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 13:58:29,011: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 13:58:29,013: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 13:58:29,014: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b4a0f955e8ed', 'id': 'df3cb585-e2ff-4dda-b157-2b0f07d63b2e', 'name': 'create_task', 'exc': 'TypeError("create_task() missing 1 required positional argument: \'task_type\'")', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: create_task() missing 1 required positional argument: \'task_type\'\n', 'args': '[]', 'kwargs': "{'url': 'https://ipinfo.tw/ip'}", 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 14:04:07,658: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 14:04:07,665: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 14:04:08,683: INFO/MainProcess] mingle: all alone
+[2023-07-19 14:04:08,718: INFO/MainProcess] celery@b26798a50ded ready.
+[2023-07-19 14:04:12,228: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 14:04:26,736: INFO/MainProcess] Task create_task[8d0284fb-6955-4ed4-98d2-c456d2824a20] received
+[2023-07-19 14:04:26,785: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 14:04:26,792: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:04:26,795: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 787, in connect
+    super(socksocket, self).connect(proxy_addr)
+[2023-07-19 14:04:26,797: WARNING/ForkPoolWorker-3] ConnectionRefusedError: [Errno 111] Connection refused
+[2023-07-19 14:04:26,800: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:04:26,803: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:04:26,805: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 96, in _new_conn
+    conn = socks.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,807: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 209, in create_connection
+    raise err
+[2023-07-19 14:04:26,808: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 199, in create_connection
+    sock.connect((remote_host, remote_port))
+[2023-07-19 14:04:26,810: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 47, in wrapper
+    return function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,811: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 800, in connect
+    raise ProxyConnectionError(msg, error)
+[2023-07-19 14:04:26,814: WARNING/ForkPoolWorker-3] socks.ProxyConnectionError: Error connecting to SOCKS5 proxy tor-socks-proxy:9151: [Errno 111] Connection refused
+[2023-07-19 14:04:26,816: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:04:26,817: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:04:26,819: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,820: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+[2023-07-19 14:04:26,822: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+[2023-07-19 14:04:26,823: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,825: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 127, in _new_conn
+    raise NewConnectionError(
+[2023-07-19 14:04:26,826: WARNING/ForkPoolWorker-3] urllib3.exceptions.NewConnectionError: <urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f0f27e8b150>: Failed to establish a new connection: [Errno 111] Connection refused
+[2023-07-19 14:04:26,828: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:04:26,830: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:04:26,832: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+[2023-07-19 14:04:26,834: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,835: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+[2023-07-19 14:04:26,837: WARNING/ForkPoolWorker-3] urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='ipinfo.tw', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f0f27e8b150>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2023-07-19 14:04:26,839: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:04:26,840: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:04:26,842: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,843: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,845: WARNING/ForkPoolWorker-3]   File "/usr/src/app/worker.py", line 19, in create_task
+    response = requests.get(url, proxies=proxies)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,847: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,848: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,850: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,851: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,852: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+[2023-07-19 14:04:26,854: WARNING/ForkPoolWorker-3] requests.exceptions.ConnectionError: SOCKSHTTPSConnectionPool(host='ipinfo.tw', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f0f27e8b150>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2023-07-19 14:04:26,855: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:04:26,856: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:04:26,858: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,859: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,861: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,862: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,864: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,865: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 14:04:26,868: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,870: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,872: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 14:04:26,873: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,874: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 14:04:26,876: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 14:04:26,877: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 14:04:26,881: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 14:04:26,883: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 14:04:26,885: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 14:04:26,886: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 14:04:26,887: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 14:04:26,889: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 14:04:26,890: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 14:04:26,892: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 14:04:26,893: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 14:04:26,894: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 14:04:26,896: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 14:04:26,897: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 14:04:26,899: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 14:04:26,900: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 14:04:26,902: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 14:04:26,903: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 14:04:26,905: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 14:04:26,906: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 14:04:26,908: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 14:04:26,910: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 14:04:26,911: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 14:04:26,913: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 14:04:26,914: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 14:04:26,916: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 14:04:26,917: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 14:04:26,919: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 14:04:26,920: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 14:04:26,922: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 14:04:26,923: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 14:04:26,925: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 14:04:26,926: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 14:04:26,927: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 14:04:26,929: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 14:04:26,930: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 14:04:26,932: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b26798a50ded', 'id': '8d0284fb-6955-4ed4-98d2-c456d2824a20', 'name': 'create_task', 'exc': 'ConnectionError(MaxRetryError("SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f0f27e8b150>: Failed to establish a new connection: [Errno 111] Connection refused\'))"))', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 787, in connect\n    super(socksocket, self).connect(proxy_addr)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 96, in _new_conn\n    conn = socks.create_connection(\n           ^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 209, in create_connection\n    raise err\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 199, in create_connection\n    sock.connect((remote_host, remote_port))\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 47, in wrapper\n    return function(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 800, in connect\n    raise ProxyConnectionError(msg, error)\nsocks.ProxyConnectionError: Error connecting to SOCKS5 proxy tor-socks-proxy:9151: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen\n    httplib_response = self._make_request(\n                       ^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 403, in _make_request\n    self._validate_conn(conn)\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1053, in _validate_conn\n    conn.connect()\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect\n    self.sock = conn = self._new_conn()\n                       ^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 127, in _new_conn\n    raise NewConnectionError(\nurllib3.exceptions.NewConnectionError: <urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f0f27e8b150>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 489, in send\n    resp = conn.urlopen(\n           ^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen\n    retries = retries.increment(\n              ^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f0f27e8b150>: Failed to establish a new connection: [Errno 111] Connection refused\'))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 19, in create_task\n    response = requests.get(url, proxies=proxies)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get\n    return request("get", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 565, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f0f27e8b150>: Failed to establish a new connection: [Errno 111] Connection refused\'))\n', 'args': '[]', 'kwargs': "{'url': 'https://ipinfo.tw/ip'}", 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 14:07:27,084: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 14:07:27,092: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 14:07:28,114: INFO/MainProcess] mingle: all alone
+[2023-07-19 14:07:28,144: INFO/MainProcess] celery@0f9c9c12450a ready.
+[2023-07-19 14:07:31,618: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 14:08:03,327: INFO/MainProcess] Task create_task[d33410fb-da31-45cf-ab53-0590694c1bbb] received
+[2023-07-19 14:08:03,352: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 14:08:03,359: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:08:03,362: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 787, in connect
+    super(socksocket, self).connect(proxy_addr)
+[2023-07-19 14:08:03,365: WARNING/ForkPoolWorker-3] ConnectionRefusedError: [Errno 111] Connection refused
+[2023-07-19 14:08:03,366: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:08:03,368: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:08:03,370: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 96, in _new_conn
+    conn = socks.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,372: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 209, in create_connection
+    raise err
+[2023-07-19 14:08:03,373: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 199, in create_connection
+    sock.connect((remote_host, remote_port))
+[2023-07-19 14:08:03,376: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 47, in wrapper
+    return function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,378: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 800, in connect
+    raise ProxyConnectionError(msg, error)
+[2023-07-19 14:08:03,380: WARNING/ForkPoolWorker-3] socks.ProxyConnectionError: Error connecting to SOCKS5 proxy tor-socks-proxy:9151: [Errno 111] Connection refused
+[2023-07-19 14:08:03,382: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:08:03,384: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:08:03,385: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,387: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+[2023-07-19 14:08:03,388: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+[2023-07-19 14:08:03,389: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,391: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 127, in _new_conn
+    raise NewConnectionError(
+[2023-07-19 14:08:03,393: WARNING/ForkPoolWorker-3] urllib3.exceptions.NewConnectionError: <urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc2a1b6ad90>: Failed to establish a new connection: [Errno 111] Connection refused
+[2023-07-19 14:08:03,394: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:08:03,396: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:08:03,397: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+[2023-07-19 14:08:03,398: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,400: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+[2023-07-19 14:08:03,401: WARNING/ForkPoolWorker-3] urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='ipinfo.tw', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc2a1b6ad90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2023-07-19 14:08:03,403: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:08:03,404: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:08:03,406: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,407: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,409: WARNING/ForkPoolWorker-3]   File "/usr/src/app/worker.py", line 19, in create_task
+    response = requests.get(url, proxies=proxies)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,410: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,412: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,413: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,415: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,416: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+[2023-07-19 14:08:03,417: WARNING/ForkPoolWorker-3] requests.exceptions.ConnectionError: SOCKSHTTPSConnectionPool(host='ipinfo.tw', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc2a1b6ad90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2023-07-19 14:08:03,419: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:08:03,423: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:08:03,425: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,426: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,427: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,429: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,430: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,432: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 14:08:03,434: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,435: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,437: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 14:08:03,438: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,440: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 14:08:03,441: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 14:08:03,443: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 14:08:03,447: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 14:08:03,448: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 14:08:03,450: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 14:08:03,451: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 14:08:03,452: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 14:08:03,454: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 14:08:03,455: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 14:08:03,456: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 14:08:03,458: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 14:08:03,459: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 14:08:03,461: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 14:08:03,462: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 14:08:03,463: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 14:08:03,465: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 14:08:03,466: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 14:08:03,468: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 14:08:03,469: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 14:08:03,470: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 14:08:03,472: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 14:08:03,473: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 14:08:03,475: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 14:08:03,476: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 14:08:03,477: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 14:08:03,479: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 14:08:03,480: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 14:08:03,482: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 14:08:03,483: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 14:08:03,484: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 14:08:03,486: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 14:08:03,487: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 14:08:03,488: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 14:08:03,490: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 14:08:03,491: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 14:08:03,493: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 14:08:03,494: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@0f9c9c12450a', 'id': 'd33410fb-da31-45cf-ab53-0590694c1bbb', 'name': 'create_task', 'exc': 'ConnectionError(MaxRetryError("SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc2a1b6ad90>: Failed to establish a new connection: [Errno 111] Connection refused\'))"))', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 787, in connect\n    super(socksocket, self).connect(proxy_addr)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 96, in _new_conn\n    conn = socks.create_connection(\n           ^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 209, in create_connection\n    raise err\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 199, in create_connection\n    sock.connect((remote_host, remote_port))\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 47, in wrapper\n    return function(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 800, in connect\n    raise ProxyConnectionError(msg, error)\nsocks.ProxyConnectionError: Error connecting to SOCKS5 proxy tor-socks-proxy:9151: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen\n    httplib_response = self._make_request(\n                       ^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 403, in _make_request\n    self._validate_conn(conn)\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1053, in _validate_conn\n    conn.connect()\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect\n    self.sock = conn = self._new_conn()\n                       ^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 127, in _new_conn\n    raise NewConnectionError(\nurllib3.exceptions.NewConnectionError: <urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc2a1b6ad90>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 489, in send\n    resp = conn.urlopen(\n           ^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen\n    retries = retries.increment(\n              ^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc2a1b6ad90>: Failed to establish a new connection: [Errno 111] Connection refused\'))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 19, in create_task\n    response = requests.get(url, proxies=proxies)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get\n    return request("get", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 565, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc2a1b6ad90>: Failed to establish a new connection: [Errno 111] Connection refused\'))\n', 'args': '[]', 'kwargs': "{'url': 'https://ipinfo.tw/ip'}", 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 14:16:21,249: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 14:16:21,256: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 14:16:22,286: INFO/MainProcess] mingle: all alone
+[2023-07-19 14:16:22,334: INFO/MainProcess] celery@b6705095c789 ready.
+[2023-07-19 14:16:25,687: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 14:16:35,721: INFO/MainProcess] Task create_task[8209083e-cc07-451b-94d4-37c3efdb264a] received
+[2023-07-19 14:16:35,779: WARNING/ForkPoolWorker-3] --- Logging error ---
+[2023-07-19 14:16:35,787: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:16:35,790: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 787, in connect
+    super(socksocket, self).connect(proxy_addr)
+[2023-07-19 14:16:35,795: WARNING/ForkPoolWorker-3] ConnectionRefusedError: [Errno 111] Connection refused
+[2023-07-19 14:16:35,799: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:16:35,804: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:16:35,806: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 96, in _new_conn
+    conn = socks.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,808: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 209, in create_connection
+    raise err
+[2023-07-19 14:16:35,810: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 199, in create_connection
+    sock.connect((remote_host, remote_port))
+[2023-07-19 14:16:35,813: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 47, in wrapper
+    return function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,815: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/socks.py", line 800, in connect
+    raise ProxyConnectionError(msg, error)
+[2023-07-19 14:16:35,819: WARNING/ForkPoolWorker-3] socks.ProxyConnectionError: Error connecting to SOCKS5 proxy tor-socks-proxy:9151: [Errno 111] Connection refused
+[2023-07-19 14:16:35,821: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:16:35,824: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:16:35,825: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,827: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+[2023-07-19 14:16:35,830: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+[2023-07-19 14:16:35,831: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,833: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 127, in _new_conn
+    raise NewConnectionError(
+[2023-07-19 14:16:35,834: WARNING/ForkPoolWorker-3] urllib3.exceptions.NewConnectionError: <urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f055bffea90>: Failed to establish a new connection: [Errno 111] Connection refused
+[2023-07-19 14:16:35,836: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:16:35,837: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:16:35,839: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+[2023-07-19 14:16:35,840: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,841: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+[2023-07-19 14:16:35,843: WARNING/ForkPoolWorker-3] urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='ipinfo.tw', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f055bffea90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2023-07-19 14:16:35,844: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:16:35,845: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:16:35,847: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,848: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,850: WARNING/ForkPoolWorker-3]   File "/usr/src/app/worker.py", line 19, in create_task
+    response = requests.get(url, proxies=proxies)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,851: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,852: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,854: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,856: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,857: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+[2023-07-19 14:16:35,860: WARNING/ForkPoolWorker-3] requests.exceptions.ConnectionError: SOCKSHTTPSConnectionPool(host='ipinfo.tw', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f055bffea90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2023-07-19 14:16:35,862: WARNING/ForkPoolWorker-3] 
+During handling of the above exception, another exception occurred:
+[2023-07-19 14:16:35,864: WARNING/ForkPoolWorker-3] Traceback (most recent call last):
+[2023-07-19 14:16:35,866: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,867: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,868: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 146, in format
+    msg = super().format(record)
+          ^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,870: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 695, in format
+    record.exc_text = self.formatException(record.exc_info)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,871: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/utils/log.py", line 142, in formatException
+    r = super().formatException(ei)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,873: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/logging/__init__.py", line 645, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+[2023-07-19 14:16:35,874: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,876: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 690, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,877: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 416, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+[2023-07-19 14:16:35,878: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 353, in _walk_tb_with_full_positions
+    positions = _get_code_position(tb.tb_frame.f_code, tb.tb_lasti)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,880: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/traceback.py", line 366, in _get_code_position
+    positions_gen = code.co_positions()
+                    ^^^^^^^^^^^^^^^^^
+[2023-07-19 14:16:35,881: WARNING/ForkPoolWorker-3] AttributeError: '_Code' object has no attribute 'co_positions'
+[2023-07-19 14:16:35,883: WARNING/ForkPoolWorker-3] Call stack:
+[2023-07-19 14:16:35,886: WARNING/ForkPoolWorker-3]   File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2023-07-19 14:16:35,888: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/__main__.py", line 15, in main
+    sys.exit(_main())
+[2023-07-19 14:16:35,890: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/celery.py", line 217, in main
+    return celery(auto_envvar_prefix="CELERY")
+[2023-07-19 14:16:35,891: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+[2023-07-19 14:16:35,893: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+[2023-07-19 14:16:35,894: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+[2023-07-19 14:16:35,896: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+[2023-07-19 14:16:35,897: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+[2023-07-19 14:16:35,898: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+[2023-07-19 14:16:35,900: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/base.py", line 134, in caller
+    return f(ctx, *args, **kwargs)
+[2023-07-19 14:16:35,901: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bin/worker.py", line 351, in worker
+    worker.start()
+[2023-07-19 14:16:35,902: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/worker/worker.py", line 203, in start
+    self.blueprint.start(self)
+[2023-07-19 14:16:35,904: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+[2023-07-19 14:16:35,905: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/bootsteps.py", line 365, in start
+    return self.obj.start()
+[2023-07-19 14:16:35,907: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/base.py", line 129, in start
+    self.on_start()
+[2023-07-19 14:16:35,908: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/prefork.py", line 109, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2023-07-19 14:16:35,909: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 463, in __init__
+    super().__init__(processes, *args, **kwargs)
+[2023-07-19 14:16:35,911: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2023-07-19 14:16:35,912: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/concurrency/asynpool.py", line 480, in _create_worker_process
+    return super()._create_worker_process(i)
+[2023-07-19 14:16:35,914: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2023-07-19 14:16:35,915: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2023-07-19 14:16:35,916: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2023-07-19 14:16:35,918: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2023-07-19 14:16:35,919: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2023-07-19 14:16:35,921: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2023-07-19 14:16:35,923: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2023-07-19 14:16:35,924: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2023-07-19 14:16:35,925: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2023-07-19 14:16:35,927: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 649, in fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2023-07-19 14:16:35,928: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 468, in trace_task
+    I, R, state, retval = on_error(task_request, exc, uuid)
+[2023-07-19 14:16:35,930: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 379, in on_error
+    R = I.handle_error_state(
+[2023-07-19 14:16:35,931: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 178, in handle_error_state
+    return {
+[2023-07-19 14:16:35,954: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 237, in handle_failure
+    self._log_error(task, req, einfo)
+[2023-07-19 14:16:35,974: WARNING/ForkPoolWorker-3]   File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 265, in _log_error
+    logger.log(policy.severity, policy.format.strip(), context,
+[2023-07-19 14:16:35,993: WARNING/ForkPoolWorker-3] Message: 'Task %(name)s[%(id)s] %(description)s: %(exc)s'
+Arguments: {'hostname': 'celery@b6705095c789', 'id': '8209083e-cc07-451b-94d4-37c3efdb264a', 'name': 'create_task', 'exc': 'ConnectionError(MaxRetryError("SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f055bffea90>: Failed to establish a new connection: [Errno 111] Connection refused\'))"))', 'traceback': 'Traceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 787, in connect\n    super(socksocket, self).connect(proxy_addr)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 96, in _new_conn\n    conn = socks.create_connection(\n           ^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 209, in create_connection\n    raise err\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 199, in create_connection\n    sock.connect((remote_host, remote_port))\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 47, in wrapper\n    return function(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/socks.py", line 800, in connect\n    raise ProxyConnectionError(msg, error)\nsocks.ProxyConnectionError: Error connecting to SOCKS5 proxy tor-socks-proxy:9151: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen\n    httplib_response = self._make_request(\n                       ^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 403, in _make_request\n    self._validate_conn(conn)\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1053, in _validate_conn\n    conn.connect()\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect\n    self.sock = conn = self._new_conn()\n                       ^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/contrib/socks.py", line 127, in _new_conn\n    raise NewConnectionError(\nurllib3.exceptions.NewConnectionError: <urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f055bffea90>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 489, in send\n    resp = conn.urlopen(\n           ^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen\n    retries = retries.increment(\n              ^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f055bffea90>: Failed to establish a new connection: [Errno 111] Connection refused\'))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 451, in trace_task\n    R = retval = fun(*args, **kwargs)\n                 ^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/celery/app/trace.py", line 734, in __protected_call__\n    return self.run(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/src/app/worker.py", line 19, in create_task\n    response = requests.get(url, proxies=proxies)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 73, in get\n    return request("get", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 587, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/sessions.py", line 701, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/usr/local/lib/python3.11/site-packages/requests/adapters.py", line 565, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: SOCKSHTTPSConnectionPool(host=\'ipinfo.tw\', port=443): Max retries exceeded with url: /ip (Caused by NewConnectionError(\'<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7f055bffea90>: Failed to establish a new connection: [Errno 111] Connection refused\'))\n', 'args': '[]', 'kwargs': "{'url': 'https://ipinfo.tw/ip'}", 'description': 'raised unexpected', 'internal': False}
+[2023-07-19 14:19:53,490: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 14:19:53,501: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 14:19:54,521: INFO/MainProcess] mingle: all alone
+[2023-07-19 14:19:54,556: INFO/MainProcess] celery@e68662f412a5 ready.
+[2023-07-19 14:19:57,807: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 14:20:40,488: INFO/MainProcess] Task create_task[3197a5a6-50be-4f4f-a1c3-46a9aef70586] received
+[2023-07-19 14:20:42,466: INFO/ForkPoolWorker-3] Task create_task[3197a5a6-50be-4f4f-a1c3-46a9aef70586] succeeded in 1.9679661270001816s: True
+[2023-07-19 14:21:26,690: INFO/MainProcess] Task create_task[d29277c9-f2d6-46c7-b82b-0d4d62c2acf2] received
+[2023-07-19 14:21:28,688: INFO/ForkPoolWorker-3] Task create_task[d29277c9-f2d6-46c7-b82b-0d4d62c2acf2] succeeded in 1.98461985799986s: True
+[2023-07-19 14:21:50,265: INFO/MainProcess] Connected to redis://redis:6379/0
+[2023-07-19 14:21:50,269: INFO/MainProcess] mingle: searching for neighbors
+[2023-07-19 14:21:51,286: INFO/MainProcess] mingle: all alone
+[2023-07-19 14:21:51,312: INFO/MainProcess] celery@53083579a70f ready.
+[2023-07-19 14:21:55,044: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-07-19 14:22:03,175: INFO/MainProcess] Task create_task[711e0d52-7353-468a-aa6e-d056a58c4db8] received
+[2023-07-19 14:22:05,923: WARNING/ForkPoolWorker-3] 45.151.167.10
+[2023-07-19 14:22:05,929: INFO/ForkPoolWorker-3] Task create_task[711e0d52-7353-468a-aa6e-d056a58c4db8] succeeded in 2.735982095000054s: True
+[2023-07-19 14:23:53,335: INFO/MainProcess] Task create_task[735d1807-249e-4323-b4c2-8037b421d487] received
+[2023-07-19 14:23:55,337: WARNING/ForkPoolWorker-3] 45.151.167.10
+[2023-07-19 14:23:55,344: INFO/ForkPoolWorker-3] Task create_task[735d1807-249e-4323-b4c2-8037b421d487] succeeded in 2.004767310999341s: True
